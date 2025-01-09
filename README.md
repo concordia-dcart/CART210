@@ -3,6 +3,10 @@ Website for CART210—New Media Theory.
 
 Some classes incorporate [Jhave's](https://glia.ca/) course conceptualization and materials.
 
+For all communication with Gabriel and Abygail, use the class email:
+
+[cart210nmt@liveconcordia.onmicrosoft.com](mailto:cart210nmt@liveconcordia.onmicrosoft.com)
+
 ## Weeks
 - [Week 01. Introduction](https://concordia-dcart.github.io/CART210/slides/C1)
 <!-- - [Week 02. Birth of Bits](https://concordia-dcart.github.io/CART210/slides/C2) -->
@@ -24,7 +28,7 @@ Some classes incorporate [Jhave's](https://glia.ca/) course conceptualization an
 ## Technology we are using in CART210
 <!-- - Discord. Ask [Gabriel](mailto:gabriel.vigliensoni@concordia.ca) or [Chrys](mailto:chrys.vilvang@concordia.ca) for an invite to the CART server. -->
 - Perusall. Ask [Gabriel or Abygail](mailto:cart210nmt@liveconcordia.onmicrosoft.com) for an invite.
-- GitHub. Send your GitHub username to [@vigliensoni](https://github.com/vigliensoni) or [@chrysv](https://github.com/chrysv).
+- GitHub. Send your GitHub username to [@vigliensoni](https://github.com/vigliensoni) or [@Abygail-B](https://github.com/Abygail-B).
 - HTML, CSS, Markdown. Showcase your skills!
 - Moodle. Use your Concordia account.
-- Zotero. Download it. Use it, abuse it.
+- Zotero. Download it, use it, abuse it.
