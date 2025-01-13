@@ -21,8 +21,8 @@ For all communication with Gabriel and Abygail, use the class' email:
 ## Resources
 - [Course outline](https://drive.google.com/file/d/1mVuc5ju5wPMxznzoD3oP9OuVtBPZbLZF/view?usp=drive_link)
 - [Course site](https://concordia-dcart.github.io/CART210/)
-<!-- - [New media keywords](https://github.com/concordia-dcart/CART210-glossary/blob/main/glossary.md) -->
 - [List of New media keywords](https://docs.google.com/spreadsheets/d/1X-VDrn1m_8drUODcmVEF92Le8NAivV7seNMidSBGOOs/edit?gid=565729004#gid=565729004)
+<!-- - [New media keywords](https://github.com/concordia-dcart/CART210-glossary/blob/main/glossary.md) -->
 
 
 ## Technology we are using in CART210
